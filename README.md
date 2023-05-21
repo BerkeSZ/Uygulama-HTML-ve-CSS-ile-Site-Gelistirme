@@ -1,4 +1,4 @@
-
+Merhabalar ismim Berke bu projeyi kendimi geliştirmek için yaptım.
 <hr>
 
 <p><b>Mobil Uyumlu Html Ve css ile web sitesi Geliştirdim çok az bir js vardır hamburger menü için kullandım</b></p>
